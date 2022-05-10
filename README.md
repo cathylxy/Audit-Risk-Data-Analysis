@@ -1,1 +1,3 @@
-# Audit-Risk-Data-Analysis
+# Audit Risk Data Analysis
+Audit is the process of examining the financial records of any business to corroborate that their financial statements are in compliance with the standard accounting laws and principles. Auditors are responsible for locating fraudulent activity within businesses. Firms that commit fraud can cause greater issues within the economy and should be subject to legal action. Detecting fraud is done by auditing the financial statements of businesses, but this can be very difficult on a large scale. Data analysis can be used to consider a large scale of information and identify common fraudulent activities to make this work more effective.
+
